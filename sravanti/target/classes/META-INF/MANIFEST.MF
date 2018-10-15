@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sravanti
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SS460711
+Implementation-Vendor-Id: com.assignment
+Build-Jdk: 1.8.0_172
+Implementation-URL: http://projects.spring.io/spring-boot/sravanti/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
